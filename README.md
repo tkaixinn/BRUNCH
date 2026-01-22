@@ -1,4 +1,3 @@
-```markdown
 # Customer Segmentation Analysis
 
 ## 1. Project Overview and Objective
